@@ -1,5 +1,5 @@
 {
-  "name": "req",
+  "name": "relative-require",
   "version": "1.0.0",
   "description": "",
   "main": "req.js",
